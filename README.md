@@ -4,8 +4,6 @@ Script em **Python** que automatiza o envio de planilhas de investimentos para o
 
 **Metodologia:** foram usados o VS Code e a linguagem Python.
 
-### ▶️ [Ver a automação funcionando (vídeo)](https://www.youtube.com/watch?v=7pwIwK7izuM&t=91s)
-
 ## 🎯 Contexto e objetivo
 
 As principais funcionalidades do código são:
